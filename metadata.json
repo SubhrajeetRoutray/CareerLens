@@ -1,0 +1,6 @@
+{
+  "name": "CareerLens",
+  "description": "Resume and skill gap analyzer powered by Gemini and PDF processing. Compare resumes against job descriptions, identify missing skills, build a Beginner-to-Intermediate learning roadmap, and improve project descriptions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
